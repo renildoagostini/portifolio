@@ -182,7 +182,7 @@ article h2 {
   border-radius: 10px;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 500px) {
   #skill-container{
     grid-template-columns: 1fr 1fr;
   }
